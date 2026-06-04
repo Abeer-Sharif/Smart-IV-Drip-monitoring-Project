@@ -120,6 +120,7 @@ nodemon server.js
 * Generates low-level warnings
 * Provides remote monitoring access
 * Maintains continuous data updates
+* Notifications and buzzer in abnormal cases
 
 ## 🎯 Objectives
 
@@ -131,7 +132,6 @@ nodemon server.js
 
 ## 🔮 Future Enhancements
 
-* SMS and Email notifications
 * Mobile application integration
 * Patient management module
 * Cloud deployment
